@@ -1,0 +1,12 @@
+python -B train_s3dis.py --gpu 0 --mode train --test_area 1
+python -B train_s3dis.py --gpu 0 --mode test --test_area 1
+python -B train_s3dis.py --gpu 0 --mode train --test_area 2
+python -B train_s3dis.py --gpu 0 --mode test --test_area 2
+python -B train_s3dis.py --gpu 0 --mode train --test_area 3
+python -B train_s3dis.py --gpu 0 --mode test --test_area 3
+python -B train_s3dis.py --gpu 0 --mode train --test_area 4
+python -B train_s3dis.py --gpu 0 --mode test --test_area 4
+python -B train_s3dis.py --gpu 0 --mode train --test_area 5
+python -B train_s3dis.py --gpu 0 --mode test --test_area 5
+python -B train_s3dis.py --gpu 0 --mode train --test_area 6
+python -B train_s3dis.py --gpu 0 --mode test --test_area 6

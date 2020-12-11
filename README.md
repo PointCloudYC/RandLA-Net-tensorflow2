@@ -1,2 +1,3 @@
 # RandLA-Net-tensorflow2
-Tensorflow2 implementation of RandLA-Net
+
+TensorFlow 2 implementation of RandLA-Net
